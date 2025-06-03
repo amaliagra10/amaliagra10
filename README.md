@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Amalia Granata
 
-### 📊 Data Analyst | Python | SQL | Power BI
+### 📊 Data Analyst | Lic. en Economía | Python | SQL | Power BI
 
 Apasionada por resolver problemas reales con datos y crear soluciones automatizadas y visuales que impulsen la toma de decisiones. 
 ---
