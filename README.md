@@ -34,9 +34,9 @@ Apasionada por resolver problemas reales con datos y crear soluciones automatiza
 
 ## 📬 Contacto
 
-- 💼 [LinkedIn](https://linkedin.com/in/amaliagranata10)
+- 💼 https://linkedin.com/in/amaliagranata10
 - 📧 m.amalia.granata@gmail.com
-- 🌐 [Sitio Web o Portfolio](https://github.com/amaliagra10)
+- 🌐 https://github.com/amaliagra10
 
 ---
 
